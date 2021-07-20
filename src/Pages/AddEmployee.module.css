@@ -1,6 +1,6 @@
 .board {
     padding: 30px;
-    margin: 50px 300px;
+    margin: 50px 200px;
     background: white;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
     border-radius: 10px;
@@ -8,4 +8,8 @@
 
 .text {
     font-size: 1.6rem;
+}
+
+.dpWidth {
+   width: 100%;
 }
